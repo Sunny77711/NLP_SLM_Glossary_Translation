@@ -102,6 +102,7 @@ NLP_SLM_Glossary_Translation/
 ├── README.md
 ├── glossary.pdf
 └── telugu_glossary.csv
+└── translation.py
 ```
 
 ---
