@@ -101,10 +101,7 @@ NLP_SLM_Glossary_Translation/
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-├── data/
-│   └── glossary.pdf
-│
+├── glossary.pdf
 └── output/
     └── telugu_glossary.csv
 ```
